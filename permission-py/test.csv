@@ -1,0 +1,6 @@
+,data_source,entry,num_commits,num_branches,num_packages,num_releases,num_stars,update_time,push_time,num_contributors,package_name,on_googleplay,on_androzoo,on_fdroid,has_test,has_kotlin,email_address,has_ndk,#,exception
+0,github,0xbad1d3a5/Kaku,175,1,0,3,72,,2019-06-30T11:02:57Z,2,ca.fuwafuwa.kaku,Yes,Yes,No,Yes,Yes,,No,,100.0
+1,github,0xf4b1/motionmate,15,5,0,1,4,2019-12-20T05:04:22Z,2020-01-24T20:06:17Z,2,com.tiefensuche.motionmate,Yes,No,No,Yes,Yes,,No,,
+2,github,10aditya/movies-and-shows-android-app,32,2,0,0,3,2019-11-15T12:55:48Z,2019-01-26T14:06:04Z,2,com.insomniacgks.newmoviesandshows,Yes,No,No,Yes,Yes,adityapingle90@gmail.com,No,,
+3,github,11618nathan/GGUBob2,205,1,0,0,1,,2019-11-18T15:50:52Z,2,kr.ac.ggu.GGUBob,Yes,No,No,No,No,11618nathan@gmail.com,No,,100.0
+4,github,12tp12/PlanIt,45,1,0,0,3,,2017-09-14T12:43:22Z,2,com.planit.planit,Yes,No,No,Yes,No,"tomer.patel@gmail.com,da19965@gmail.com",No,,100.0

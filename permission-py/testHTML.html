@@ -1,0 +1,34 @@
+<div data-version-added="28" >
+    <h3 class="api-name" id="ACCEPT_HANDOVER" data-text="ACCEPT_HANDOVER">ACCEPT_HANDOVER</h3>
+    <div class="api-level">
+      
+    Added in <a href="/guide/topics/manifest/uses-sdk-element#ApiLevels">API level 28</a>
+  
+      
+  
+
+    </div>
+<pre class="api-signature no-pretty-print" translate="no" dir="ltr">
+public static final <a href="/reference/java/lang/String">String</a> ACCEPT_HANDOVER</pre>
+    
+    
+
+    
+  <p>Allows a calling app to continue a call which was started in another app.  An example is a
+ video calling app that wants to continue a voice call on the user's mobile network.<p>
+ When the handover of a call from one app to another takes place, there are two devices
+ which are involved in the handover; the initiating and receiving devices.  The initiating
+ device is where the request to handover the call was started, and the receiving device is
+ where the handover request is confirmed by the other party.<p>
+ This permission protects access to the
+ <code translate="no" dir="ltr"><a href="/reference/android/telecom/TelecomManager#acceptHandover(android.net.Uri,%20int,%20android.telecom.PhoneAccountHandle)">TelecomManager.acceptHandover(Uri, int, PhoneAccountHandle)</a></code> which
+ the receiving side of the handover uses to accept a handover.
+ <p>Protection level: dangerous</p></p>
+
+    
+      <p>Constant Value:
+      
+          "android.permission.ACCEPT_HANDOVER"
+      
+    
+</div>
